@@ -27,19 +27,7 @@ This repository contains solutions to **50 JavaScript coding questions** that I 
 
 ## 🧠 Question 1: Print Current Date in Console
 
-### ✅ Problem
-Print the current date in the console using JavaScript.
 
-### 💡 Solution
-
-```javascript
-let today = new Date();
-console.log(today);
-```
-
-### 📌 Output Example
-
-```
 Sat Feb 14 2026 21:30:00 GMT+0530 (India Standard Time)
 ```
 
